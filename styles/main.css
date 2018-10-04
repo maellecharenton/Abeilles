@@ -1,0 +1,55 @@
+body {
+    background-color: #ffe1a4;
+    color: #683c11;
+    font-family: 'Questrial', sans-serif;
+}
+
+h1 {
+  font-family: 'Questrial', sans-serif;
+}
+
+.index {
+  border-color: #683c11;
+  background-color: #683c11;
+  border: 2px solid #683c11;
+  border-radius: 5px;
+  border-spacing: 5em;
+font-family: 'Kodchasan', sans-serif;
+color: white; 
+}
+
+.etape01 {
+  border-color: #e6332a;
+  background-color: #e6332a;
+  border: 2px solid #e6332a;
+  border-radius: 5px;
+  border-spacing: 5em;
+font-family: 'Kodchasan', sans-serif;
+}
+
+.etape02 {
+  border-color: #e94e1b;
+  background-color: #e94e1b;
+  border: 2px solid #e94e1b;
+  border-radius: 5px;
+  border-spacing: 5em;
+  font-family: 'Kodchasan', sans-serif;
+}
+
+.etape03 {
+  border-color: #f39200;
+  background-color: #f39200;
+  border: 2px solid #f39200;
+  border-radius: 5px;
+  border-spacing: 5em;
+  font-family: 'Kodchasan', sans-serif;
+}
+
+.etape04 {
+  border-color: #f9b233;
+  background-color: #f9b233;
+  border: 2px solid #f9b233;
+  border-radius: 5px;
+  border-spacing: 5em;
+  font-family: 'Kodchasan', sans-serif;
+}
