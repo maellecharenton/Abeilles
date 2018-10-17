@@ -121,7 +121,7 @@ color:white;
 
 
 .accueil {
-  margin-left: 600px;
+  margin-left: 500px;
   margin-right: none;
   flex-wrap: wrap;
   display: flex;
@@ -129,6 +129,23 @@ color:white;
 }
 
 .etape02 {
+  margin-left: 400px;
+  margin-right: none;
+  flex-wrap: wrap;
+  display: flex;
+
+}
+
+.etape03 {
+  margin-left: 150px;
+  margin-right: none;
+  margin-top: 25px;
+  flex-wrap: wrap;
+  display: flex;
+
+}
+
+.etape04 {
   margin-left: 400px;
   margin-right: none;
   flex-wrap: wrap;
