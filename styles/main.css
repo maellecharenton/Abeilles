@@ -2,6 +2,7 @@ body {
     background-color: #ffe1a4;
     color: #683c11;
   font-family: 'Kodchasan', sans-serif;
+  text-decoration: none;
 }
 
 h1 {
@@ -119,10 +120,22 @@ color:white;
 }
 
 
-img {
-  margin-left: 40em;
+.accueil {
+  margin-left: 600px;
+  margin-right: none;
+  flex-wrap: wrap;
+  display: flex;
 
 }
+
+.etape02 {
+  margin-left: 400px;
+  margin-right: none;
+  flex-wrap: wrap;
+  display: flex;
+
+}
+
 .boutons {
   display: flex;
   flex-direction: row;
@@ -131,7 +144,44 @@ img {
 
 }
 
-video {
-  justify-content: center;
+.texte {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: 900px;
+  background-color: #f9b233;
+border: 20px solid #f9b233;
+border-color: #f9b233;
+  border-radius: 5px;
+  border-spacing: 5em;
+  width: 400px;
+  border-spacing: 5em;
+  text-decoration: none;
 
+}
+
+
+.video2 {
+  display:block;
+  color: white;
+  height:30px;
+  text-decoration: none;
+  line-height:29px;
+  margin-left: 85px;
+  margin-bottom:14px;
+  margin-right: 10px;
+  width:191px;
+  border-color: #683c11;
+  background-color: #683c11;
+  border: 2px solid #683c11;
+  border-radius: 5px;
+  border-spacing: 5em;
+  text-align: center;
+
+}
+
+.lien {
+color: white;
+text-decoration: none;
 }
