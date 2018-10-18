@@ -29,6 +29,7 @@ a.button01{
     border-spacing: 5em;
   font-family: 'Kodchasan', sans-serif;
   text-align: center;
+
 	}
 
 	a:hover.button01{
@@ -51,6 +52,7 @@ border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
 text-align: center;
+
 }
 
 a:hover.button02{
@@ -73,6 +75,7 @@ border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
 text-align: center;
+
 }
 
 a:hover.button03{
@@ -95,6 +98,7 @@ border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
 text-align: center;
+
 }
 
 a:hover.button04{
@@ -117,6 +121,7 @@ border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
 text-align: center;
+
 
 }
 
@@ -187,11 +192,11 @@ border-color: #f9b233;
   border-radius: 5px;
   border-spacing: 5em;
   width: 400px;
-  border-spacing: 5em;
   text-decoration: none;
 
-
 }
+
+
 
 
 .video2 {
