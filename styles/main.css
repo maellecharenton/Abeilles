@@ -28,6 +28,7 @@ a.button01{
     border-radius: 5px;
     border-spacing: 5em;
   font-family: 'Kodchasan', sans-serif;
+  text-align: center;
 	}
 
 	a:hover.button01{
@@ -49,6 +50,7 @@ border: 2px solid #e94e1b;
 border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
+text-align: center;
 }
 
 a:hover.button02{
@@ -70,6 +72,7 @@ border: 2px solid #f39200;
 border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
+text-align: center;
 }
 
 a:hover.button03{
@@ -91,6 +94,7 @@ border: 2px solid #f9b233;
 border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
+text-align: center;
 }
 
 a:hover.button04{
@@ -112,44 +116,54 @@ border: 2px solid #683c11;
 border-radius: 5px;
 border-spacing: 5em;
 font-family: 'Kodchasan', sans-serif;
+text-align: center;
 
 }
 
-a:hover.button04{
+a:hover.button05{
 color:white;
 }
 
 
 .accueil {
-  margin-left: 500px;
+  margin-left: 400px;
   margin-right: none;
   flex-wrap: wrap;
-  display: flex;
+  display: table;
+  width: 70%;
+  position: absolute;
 
 }
 
 .etape02 {
-  margin-left: 400px;
+  margin-left: auto;
   margin-right: none;
+  margin-top: 0;
   flex-wrap: wrap;
-  display: flex;
+  display: table;
+  width: 110%;
+  position: absolute;
 
 }
 
 .etape03 {
-  margin-left: 150px;
+  margin-left: none;
   margin-right: none;
-  margin-top: 25px;
+  margin-top: 50px;
   flex-wrap: wrap;
-  display: flex;
+  display: table;
+  width: 100%;
+  position: absolute;
 
 }
 
 .etape04 {
-  margin-left: 400px;
+  margin-left: 150px;
   margin-right: none;
   flex-wrap: wrap;
-  display: flex;
+  display: table;
+  width: 100%;
+  position: absolute;
 
 }
 
@@ -157,7 +171,6 @@ color:white;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
- text-align: center;
 
 }
 
@@ -167,6 +180,7 @@ color:white;
   margin-top: 100px;
   margin-left: auto;
   margin-right: 900px;
+  margin-bottom: none;
   background-color: #f9b233;
 border: 20px solid #f9b233;
 border-color: #f9b233;
@@ -175,6 +189,7 @@ border-color: #f9b233;
   width: 400px;
   border-spacing: 5em;
   text-decoration: none;
+
 
 }
 
