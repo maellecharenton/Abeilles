@@ -192,18 +192,12 @@ border-color: #f9b233;
   border-radius: 5px;
   border-spacing: 5em;
   width: 400px;
-  border-spacing: 5em;
   text-decoration: none;
 
 }
 
 
-@media only screen and (max-width: 600px) {
-  .texte{
-    min-width: 20%;
-  }
 
-}
 
 .video2 {
   display:block;
